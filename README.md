@@ -2,7 +2,7 @@
 
 A simple, fast, and responsive random quote generator built with **React Vite**, featuring a dark and light mode toggle using the React Context API.
 
-🌐 **[Live Demo](https://your-username.github.io/random-quote-generator/)**
+🌐 **[Live Demo](https://thanziapatelraheem.github.io/quote-generator/)**
 
 ---
 
