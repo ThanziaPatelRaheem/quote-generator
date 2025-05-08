@@ -1,6 +1,6 @@
 {
-  "homepage": "https://github.com/ThanziaPatelRaheem/quote-generator.git",
   "name": "quotes",
+  "homepage": "https://thanziapatelraheem.github.io/quote-generator/",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -9,6 +9,7 @@
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview",
+    "predeploy": "npm run build",
     "deploy": "gh-pages -d dist"
   },
   "dependencies": {

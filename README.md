@@ -1,12 +1,41 @@
-# React + Vite
+# 🎯 Random Quote Generator
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple, fast, and responsive random quote generator built with **React Vite**, featuring a dark and light mode toggle using the React Context API.
 
-Currently, two official plugins are available:
+🌐 **[Live Demo](https://your-username.github.io/random-quote-generator/)**
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🌟 Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- Random quote generation
+- Light and dark mode toggle
+- Responsive design
+- Fast performance with Vite
+
+---
+
+## 🛠️ Technologies Used
+
+- **React** - Frontend library
+- **Vite** - Build tool for fast development
+- **React Context** - State management for theme toggling
+
+---
+
+## 📖 Usage
+
+- **Random Quotes:** Displays a new random quote each time you click the button.
+- **Dark/Light Mode:** Toggle between dark and light themes using a context-based switch.
+
+---
+
+## 🌟 Support
+
+If you like this project, please ⭐ the repository. It means a lot! 😊
+
+---
+
+## 🤝 Contributions
+
+Contributions are welcome! If you have ideas or improvements, feel free to open a pull request or create an issue. Let's make this project better together.
